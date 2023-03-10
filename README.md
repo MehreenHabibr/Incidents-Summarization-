@@ -39,4 +39,4 @@ pipenv run python -m pytest.
  #### **status(conn)** This function prints nature of incidents and number of times it appear.
  ****
 
-Link to VIDEO : https://github.com/MehreenHabibr/cs5293sp23-project0/blob/753bfde028d97498b993c7ce586828828e5ce3a4/Recording%20%232.mp4
+Link to VIDEO : https://github.com/MehreenHabibr/cs5293sp23-project0/blob/main/Recording%20%232.mp4
