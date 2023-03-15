@@ -40,3 +40,4 @@ pipenv run python -m pytest.
  ****
 
 Link to VIDEO : https://github.com/MehreenHabibr/cs5293sp23-project0/blob/main/Recording%20%232.mp4
+click this link and then download button to access video.
