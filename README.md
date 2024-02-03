@@ -1,6 +1,6 @@
 **MEHREEN HABIB**
 ---------
-> #### Project Title: CS5293, spring 2023 Project 0
+> #### Project Title: Incidents Summarization 
 #### Project Description:
  **This project involves taking the URL of an incident summary report from the Norman Police department, if URL does not contain word incidents then we get an error message. Extracting data from the PDF file, and then inserting that data into a database. 
  The project then Print each nature and the number of times it appear.**
